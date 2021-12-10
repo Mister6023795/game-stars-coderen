@@ -5,3 +5,8 @@ body {
     background-image: url(https://images2.alphacoders.com/101/thumb-1920-1012090.jpg);
     background-color: #cccccc;
    }
+a{
+    color: rgb(199, 54, 199);
+    text-decoration: none;
+    padding: 6vw;
+}
